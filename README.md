@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/8b79dbb18644581a5ca0d.jpg" width="180">
+    <img src="https://telegra.ph/file/9e427869f1228f9fa9405.jpg" width="180">
 </p>
 <h2 align="center"> Hey, I am Aditya Oberai (he/him)👋 </h2>
 <h3 align="center"> Student Tech💻 and Hackathon👨‍💻 Community Enthusiast💝 </h3>
