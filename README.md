@@ -24,7 +24,7 @@
 
 ### Want To Contact Me? 📱
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aditya_Oberai-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityaoberai1/)](https://www.linkedin.com/in/adityaoberai1/)
+[![Linkedin Badge](https://img.shields.io/badge/-MYstic-Mwol-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityaoberai1/)](https://www.linkedin.com/in/adityaoberai1/)
 [![Instagram Badge](https://img.shields.io/badge/-adityaoberai1-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/adityaoberai1/)](https://instagram.com/adityaoberai1)
 [![Twitter Badge](https://img.shields.io/badge/-adityaoberai1-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/adityaoberai1/)](https://twitter.com/adityaoberai1/)
 [![Gmail Badge](https://img.shields.io/badge/adityaoberai1@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:adityaoberai1@gmail.com)](mailto:adityaoberai1@gmail.com)
