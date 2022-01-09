@@ -42,3 +42,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaoberai&theme=algolia"/>
 </a>
 </p>
+<p align="center">
+
+    <img src="https://telegra.ph/file/41bbcfff7e44f81c7f38f.jpg" width="180">
