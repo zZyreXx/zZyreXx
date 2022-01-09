@@ -25,21 +25,21 @@
 ### Want To Contact Me? 📱
 
 [![Linkedin Badge](https://img.shields.io/badge/-mysticmwol-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adityaoberai1/)](https://www.linkedin.com/in/adityaoberai1/)
-[![Instagram Badge](https://img.shields.io/badge/-adityaoberai1-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/adityaoberai1/)](https://instagram.com/adityaoberai1)
-[![Twitter Badge](https://img.shields.io/badge/-adityaoberai1-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/adityaoberai1/)](https://twitter.com/adityaoberai1/)
-[![Gmail Badge](https://img.shields.io/badge/adityaoberai1@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:adityaoberai1@gmail.com)](mailto:adityaoberai1@gmail.com)
-[![Youtube Badge](https://img.shields.io/badge/-Aditya_Oberai-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCTbP-EnvU0l76d2yIoiZruQ)](https://www.youtube.com/channel/UCTbP-EnvU0l76d2yIoiZruQ)
+[![Instagram Badge](https://img.shields.io/badge/-mysticsexymwol-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/adityaoberai1/)](https://instagram.com/adityaoberai1)
+[![Twitter Badge](https://img.shields.io/badge/-mysticmwol-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/adityaoberai1/)](https://twitter.com/adityaoberai1/)
+[![Gmail Badge](https://img.shields.io/badge/mysticmwol@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:adityaoberai1@gmail.com)](mailto:adityaoberai1@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-Mystic_Mwol-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCTbP-EnvU0l76d2yIoiZruQ)](https://www.youtube.com/channel/UCTbP-EnvU0l76d2yIoiZruQ)
 [![Medium Badge](https://img.shields.io/badge/-@adityaoberai1-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@adityaoberai1/)](https://medium.com/@adityaoberai1)
-[![Facebook Badge](https://img.shields.io/badge/-Aditya_Oberai-blue?style=plastic&logo=Facebook&logoColor=white&link=https://facebook.com/aoberai23)](https://www.facebook.com/aoberai23/)
-[![Dev Badge](https://img.shields.io/badge/-Aditya_Oberai-black?style=plastic&logo=dev.to&logoColor=white&link=https://dev.to/adityaoberai)](https://dev.to/adityaoberai)
-[![Polywork Badge](https://img.shields.io/badge/-Aditya_Oberai-black?style=plastic&logo=polywork&logoColor=white&link=https://www.polywork.com/adityaoberai1)](https://www.polywork.com/adityaoberai1)
+[![Facebook Badge](https://img.shields.io/badge/-Mystic_Mwol-blue?style=plastic&logo=Facebook&logoColor=white&link=https://facebook.com/aoberai23)](https://www.facebook.com/aoberai23/)
+[![Dev Badge](https://img.shields.io/badge/-Mystic_Mwol-black?style=plastic&logo=dev.to&logoColor=white&link=https://dev.to/adityaoberai)](https://dev.to/adityaoberai)
+[![Polywork Badge](https://img.shields.io/badge/-Mystic_Mwol-black?style=plastic&logo=polywork&logoColor=white&link=https://www.polywork.com/adityaoberai1)](https://www.polywork.com/adityaoberai1)
 ---
 
 
 <p align="center">
-<a href="https://github.com/adityaoberai">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adityaoberai&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaoberai&theme=algolia"/>
+<a href="https://github.com/thunderappi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thunderappi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunderappi&theme=algolia"/>
 </a>
 </p>
 
