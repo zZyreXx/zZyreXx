@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://telegra.ph/file/633f9c72d1740d51ac706.jpg" width="180">
 </p>
-<h2 align="center"> Hey, I am ๖ۣۜƊoͥᴍiͣnͫator⚠_ƤℜɆĐ₳₮Øℜ (Nudy/Sexy)😝 </h2>
+<h2 align="center"> Hey, I am ๖ۣۜƊoͥᴍiͣnͫator⚠_ƤℜɆĐ₳₮Øℜ (Sexy)😝 </h2>
 <h3 align="center"> Student Tech💻 and Hackathon👨‍💻 Community Enthusiast💝 </h3>
 
 ---
@@ -29,7 +29,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-mysticmwol-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/adityaoberai1/)](https://twitter.com/adityaoberai1/)
 [![Gmail Badge](https://img.shields.io/badge/mysticmwol@gmail.com-white?style=plastic&logo=Gmail&logoColor=&link=mailto:adityaoberai1@gmail.com)](mailto:adityaoberai1@gmail.com)
 [![Youtube Badge](https://img.shields.io/badge/-Mystic_Mwol-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCTbP-EnvU0l76d2yIoiZruQ)](https://www.youtube.com/channel/UCTbP-EnvU0l76d2yIoiZruQ)
-[![Medium Badge](https://img.shields.io/badge/-@adityaoberai1-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@adityaoberai1/)](https://medium.com/@adityaoberai1)
+[![Medium Badge](https://img.shields.io/badge/-@mysticmwolandi-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@adityaoberai1/)](https://medium.com/@adityaoberai1)
 [![Facebook Badge](https://img.shields.io/badge/-Mystic_Mwol-blue?style=plastic&logo=Facebook&logoColor=white&link=https://facebook.com/aoberai23)](https://www.facebook.com/aoberai23/)
 [![Dev Badge](https://img.shields.io/badge/-Mystic_Mwol-black?style=plastic&logo=dev.to&logoColor=white&link=https://dev.to/adityaoberai)](https://dev.to/adityaoberai)
 [![Polywork Badge](https://img.shields.io/badge/-Mystic_Mwol-black?style=plastic&logo=polywork&logoColor=white&link=https://www.polywork.com/adityaoberai1)](https://www.polywork.com/adityaoberai1)
