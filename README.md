@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://thefitgirlz.com/yanita-yancheva-yanitayancheva-134/" width="180">
+    <img src="https://telegra.ph/file/633f9c72d1740d51ac706.jpg" width="180">
 </p>
 <h2 align="center"> Hey, I am ๖ۣۜƊoͥᴍiͣnͫator⚠_ƤℜɆĐ₳₮Øℜ (Nudy/Sexy)😝 </h2>
 <h3 align="center"> Student Tech💻 and Hackathon👨‍💻 Community Enthusiast💝 </h3>
