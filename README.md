@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="https://telegra.ph/file/6634c46bed8d7542530c3.jpg" width="180">
+    <img src="https://telegra.ph/file/db234909f43bc273d1a0c.jpg" width="180">
 </p>
-<h2 align="center"> Hey, I am ๖ۣۜƊoͥᴍiͣnͫator⚠_ƤℜɆĐ₳₮Øℜ (Sexy)😝 </h2>
+<h2 align="center"> Hey, I am ๖ۣۜƊoͥᴍiͣnͫator⚠_ƤℜɆĐ₳₮Øℜ (Nude Baby)😝 </h2>
 <h3 align="center"> Student Tech💻 and Hackathon👨‍💻 Community Enthusiast💝 </h3>
 
 ---
