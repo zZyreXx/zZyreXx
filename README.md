@@ -1,9 +1,9 @@
 <p align="center">
 
+    <img src="https://telegra.ph/file/4f9e5405ef8f7cccc54ec.jpg" width="200">
 
-
-![I am GitHub Readme Generator's creator](https://telegra.ph/file/fad9d2332b8512a82ab70.jpg)
 </p>
+
 <h2 align="center"> Hey, I am ๖ۣۜƊoͥᴍiͣnͫator⚠_ƤℜɆĐ₳₮Øℜ (Nude Baby)😝 </h2>
 <h3 align="center"> Student Tech💻 and Hackathon👨‍💻 Community Enthusiast💝 </h3>
 
