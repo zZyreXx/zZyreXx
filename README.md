@@ -40,9 +40,9 @@
 
 
 <p align="center">
-<a href="https://github.com/thunderappi">
+<a href="https://github.com/LuciFerDarkGirlYt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thunderappi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thunderappi&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFerDarkGirlYt&theme=algolia"/>
 </a>
 </p>
 
