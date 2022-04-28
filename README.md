@@ -42,7 +42,7 @@
 <p align="center">
 <a href="https://github.com/LuciFerDarkGirlYt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuciFerDarkGirlYt&theme=highcontrast"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFerDarkGirlYt&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFerDarkGirlYt&theme=highcontrast"/>
 </a>
 </p>
 
