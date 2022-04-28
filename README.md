@@ -1,6 +1,6 @@
 <p align="center">
 
- <img src="https://telegra.ph/file/2afedb2111edc08cc9171.jpg" width="300">
+ <img src="https://telegra.ph/file/7867f224211ab7bc96e6d.jpg" width="300">
 
 </p>
 
