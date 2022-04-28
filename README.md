@@ -41,7 +41,7 @@
 
 <p align="center">
 <a href="https://github.com/LuciFerDarkGirlYt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuciFerDarkGirlYt&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuciFerDarkGirlYt&theme=highcontrast"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuciFerDarkGirlYt&theme=algolia"/>
 </a>
 </p>
