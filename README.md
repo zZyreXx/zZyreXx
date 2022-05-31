@@ -1,7 +1,9 @@
-<img src="https://raw.githubusercontent.com/zZyreXx/zZyreXx/zZyreXx/media/Hi.gif" width="48px"></a>
+
 <p align="center">
 
- 
+ <img src="https://raw.githubusercontent.com/zZyreXx/zZyreXx/zZyreXx/media/Hi.gif" width="48px"></a>
+
+
 
 </p>
 
