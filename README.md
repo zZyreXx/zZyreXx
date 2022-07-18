@@ -21,7 +21,7 @@
     </a>
     </details>
 
-<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=zZyreXx&theme=gitdimmed"><img src="https://github-profile-trophy.vercel.app/?username=zZyreXx" alt="zZyreXx" /></a> </p>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=gitdimmed"><img src="https://github-profile-trophy.vercel.app/?username=zZyreXx" alt="zZyreXx" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
