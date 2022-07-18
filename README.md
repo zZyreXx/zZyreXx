@@ -13,7 +13,7 @@
 </details>
 </br
 </details>
-<h2>:zany_face: Joke of the day</h2>
+<h2>:zany_face: JOKE OF THE DAY</h2>
 <details>
 <summary>See joke</summary>
     <a href="https://github.com/ABSphreak/readme-jokes">
