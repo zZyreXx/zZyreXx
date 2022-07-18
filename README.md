@@ -6,12 +6,7 @@
 ## [![Typing SVG align="center"](https://readme-typing-svg.herokuapp.com?font=Staatliches&color=C0C0C0&size=20&width=350&lines=This+is+ZHYREX+SER;+come+here+again;Thanks+for+visiting+Here)](https://git.io/typing-svg) <br/>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zZyreXx&label=Visitors%20count&color=10d9c3&style=plastic" alt="zZyreXx" /> </p>
 
-
-
 </p>
-
-<h2 align="center"> Hey, I am ꧁☠ⱠɄ₵ł₣ɆⱤ Đ₳Ɽ₭₲łⱤⱠ☠꧂ (Nude Lover)😝 </h2>
-<h3 align="center"> Student Tech💻 and Hackathon👨‍💻 Community Enthusiast💝 </h3>
 
 ---
 
