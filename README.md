@@ -37,13 +37,13 @@
 
 </br></br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mask-sir&show_icons=true&locale=en" alt="mask-sir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zZyreXx&show_icons=true&locale=en" alt="zZyreXx" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mask-sir&" alt="mask-sir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zZyreXx&" alt="zZyreXx" /></p>
 
 <p align="center">
 
-<a href="https://github.com/mask-sir"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mask-sir&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/zZyreXx"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=zZyreXx&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </p>
 
