@@ -8,7 +8,11 @@
 
 </p>
 
----
+<img align="center" alt="Coding" width="500" src="https://media2.giphy.com/media/qFw6AsQptpuzQ33Fjd/giphy.gif?cid=6c09b952d65a849d347feeab83b62850459c4e66cf9f4569&rid=giphy.gif&ct=g">
+</br
+</details>
+<h2>:zany_face: Joke of the day</h2>
+<details>
 
 ### Experience 📈
 
