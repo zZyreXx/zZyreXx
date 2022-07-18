@@ -32,8 +32,7 @@
 <h2 align="left">Connect with me:</h2>
 
 <p align="left">
-<a href="https://instagram.com/headless__angels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="headless_angels.exo" height="30" width="40" /></a>
-
+<a href="https://instagram.com/headless__angels" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="headless_angels.exo" height="30" width="40" /></
 <a href="https://wa.me/+919544951258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="avo" height="30" width="40" /></a>
 
 </br></br>
