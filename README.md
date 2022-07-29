@@ -20,8 +20,7 @@
         <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
     </a>
     </details>
-
-! [zZhyreXx](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=zZyreXx&theme=gitdimmed"><img src="https://github-profile-trophy.vercel.app/?username=zZyreXx" alt="zZyreXx" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
