@@ -21,7 +21,7 @@
     </a>
     </details>
 
-![zZhyreXx](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg
+! [zZhyreXx](https://github.com/phaticusthiccy/Statics/blob/master/generated/languages.svg
 
 <h3 align="left">Languages and Tools:</h3>
 
