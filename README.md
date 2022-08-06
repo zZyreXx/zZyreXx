@@ -83,7 +83,7 @@ if __name__ == "__main__":
 </div>
 <div align="center">
  <tr>
-        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alien-alfa&theme=radical&layout=compact" /></td>
+        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zZyreXx&theme=radical&layout=compact" /></td>
     </tr>
     <tr>
         <td align="center"><img src="http://open.spotify.com/track/6rqhFgbbKwnb9MLmUQDhG6&cover_image=false)" /></td>
@@ -93,7 +93,7 @@ if __name__ == "__main__":
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=Alien-alfa)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=zZyreXx)
 
 </details>
     
