@@ -1,7 +1,7 @@
 <!-- < src="https://i.imgur.com/GVUNJRC.jpeg"/> -->
 
 <p align="center">
-  <a href="https://www.instagram.com/ig.zhyrex/"><img img align="center" height="auto" src="https://i.imgur.com/GVUNJRC.jpeg?raw=true" alt="Profile"/> </a>
+  <a href="https://www.instagram.com/ig.zhyrex/"><img img align="center" height="auto" src="https://i.imgur.com/6Kfzn7z.jpeg?raw=true" alt="Profile"/> </a>
 </p>
 
 <!--
