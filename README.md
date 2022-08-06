@@ -33,7 +33,7 @@ if __name__ == "__main__":
 
 <div align="center">
   <a href="https://alien-alfa.github.io"><span class="avatar"> </a></span>
-  <h1>Albin Thomas</h1>
+  <h1>ZHYREX SER</h1>
 </div>
 
 
