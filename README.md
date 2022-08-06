@@ -1,7 +1,7 @@
 <!-- < src="https://i.imgur.com/GVUNJRC.jpeg"/> -->
 
 <p align="center">
-  <a href="https://www.instagram.com/alienalfa/"><img img align="center" height="auto" src="https://github.com/zZyreXx/zZyreXx/blob/beta/img/Bungee%20Shades.png?raw=true" alt="Profile"/> </a>
+  <a href="https://www.instagram.com/alienalfa/"><img img align="center" height="auto" src="https://i.imgur.com/GVUNJRC.jpeg?raw=true" alt="Profile"/> </a>
 </p>
 
 <!--
