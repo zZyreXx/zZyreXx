@@ -38,7 +38,7 @@ if __name__ == "__main__":
 
 
 <p align="center">
-  <a href="https://github.com/alien-Alfa"><img title="Release" src="https://img.shields.io/badge/About-You%20only%20live%20once,%20but%20if%20you%20do%20it%20right,%20once%20is%20enough-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/zZyreXx"><img title="Release" src="https://img.shields.io/badge/About-You%20only%20live%20once,%20but%20if%20you%20do%20it%20right,%20once%20is%20enough-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 <!--
@@ -46,13 +46,6 @@ if __name__ == "__main__":
 <h7> You only live once, but if you do it right, once is enough.</h7>
 </div>
 -->
-<p align="center">
-  <a href="https://www.youtube.com/c/alienalfa"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="150"></a>
-</p>
-
-<br><br>
-
-
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
