@@ -50,11 +50,11 @@ if __name__ == "__main__":
 </p>
 <p align="center">
 <h3 align="center">SUPPORT ME:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/thundergamb"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zZyreXx" /></a></p></p>
+<p align="center"><a href="https://www.buymeacoffee.com/zZyreXxSer"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zZyreXx" /></a></p></p>
 
 
 <!--START_SECTION:waka-->
-<img src="https://komarev.com/ghpvc/?username=Alien-alfa&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
+<img src="https://komarev.com/ghpvc/?username=zZyreXx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
