@@ -1,12 +1,12 @@
 <!-- < src="https://i.imgur.com/GVUNJRC.jpeg"/> -->
 
 <p align="center">
-  <a href="https://www.instagram.com/alienalfa/"><img img align="center" height="auto" src="https://i.imgur.com/GVUNJRC.jpeg?raw=true" alt="Profile"/> </a>
+  <a href="https://www.instagram.com/ig.zhyrex/"><img img align="center" height="auto" src="https://i.imgur.com/GVUNJRC.jpeg?raw=true" alt="Profile"/> </a>
 </p>
 
 <!--
 ___
-![Metrics](https://github.com/Alien-alfa/Alien-alfa/blob/beta/github-metrics.svg)
+![Metrics](https://github.com/zZyreXx/zZyreXx/blob/beta/github-metrics.svg)
 ___
 -->
 <!--
