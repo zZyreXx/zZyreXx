@@ -49,8 +49,8 @@ if __name__ == "__main__":
 
 </p>
 <p align="center">
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/alienalfa"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AlienAlfa" /></a></p></p>
+<h3 align="center">SUPPORT ME:</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/thundergamb"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zZyreXx" /></a></p></p>
 
 
 <!--START_SECTION:waka-->
