@@ -56,26 +56,7 @@ if __name__ == "__main__":
 <!--START_SECTION:waka-->
 <img src="https://komarev.com/ghpvc/?username=zZyreXx&label=Profile%20views&color=ff69b4&label=Profile+Views&style=plastic">
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-MacOS-BigSur, Windows11-Beta, Mint-Linux
-
-```
+![Lines of code](https://img.shields.io/badge
  <div align="center">
 
  [![Run on Repl.it](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)](https://youtu.be/qpDeM1pjbJw)
