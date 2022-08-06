@@ -114,5 +114,5 @@ Shell                    1 repo              ░░░░░░░░░░░�
  
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/alienalfa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AlienAlfa" /></a></p>
+<p><a href="https://www.buymeacoffee.com/zZyreXxSer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AlienAlfa" /></a></p>
 </div>
