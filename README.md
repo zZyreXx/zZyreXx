@@ -77,9 +77,8 @@ if __name__ == "__main__":
 <div align="center">
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/Alien-alfa?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
+![Metrics](https://metrics.lecoq.io/zZyreXx?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=Europe%2FIstanbul)
 
-[![News](https://github-readme-stats.vercel.app/api/pin/?username=Alien-alfa&repo=wabot-aq)](https://github.com/Alien-alfa/wabot-aq)
 
 </div>
 <div align="center">
