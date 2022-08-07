@@ -86,7 +86,7 @@ if __name__ == "__main__":
         <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zZyreXx&theme=radical&layout=compact" /></td>
     </tr>
     <tr>
-        <td align="center"><img src="http://open.spotify.com/track/6rqhFgbbKwnb9MLmUQDhG6&cover_image=false)" /></td>
+        <td align="center"><img src="http://open.spotify.com/track/6rqhFgbbKwnb9MLmUQDhG6&cover_image=true)" /></td>
     </tr>
   </div>
 
