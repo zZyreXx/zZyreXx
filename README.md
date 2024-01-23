@@ -94,23 +94,6 @@ if __name__ == "__main__":
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=zZyreXx)
 
 </details>
-    
-**I Mostly Code in JavaScript** 
-
-```text
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   01.29% 
-JavaScript               14 repos            ████████████████████░░░░░   85.01% 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   11.35% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25% 
-Shell                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10%
-
-```
-
-
-**Timeline**
-
- 
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zZyreXxSer"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AlienAlfa" /></a></p>
 </div>
