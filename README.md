@@ -73,6 +73,18 @@ if __name__ == "__main__":
 </details> </div>
 
 <div align="center">
+ </div>
+<div align="center">
+ <tr>
+        <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zZyreXx&theme=radical&layout=compact" /></td>
+    </tr>
+    <tr>
+        <td align="center"><img src="http://open.spotify.com/track/6rqhFgbbKwnb9MLmUQDhG6&cover_image=true)" /></td>
+    </tr>
+  </div>
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>   
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=zZyreXx)
 
 </details>
