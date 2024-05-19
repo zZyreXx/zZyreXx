@@ -25,20 +25,14 @@
   </a>
 </div>
 
-### Connect with Me
-<div align="left">
-  <a href="https://youtube.com/@AxoCoder?si=WYggB1myrZNTRoAT">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com/memezonebgmi/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://discord.gg/codersplanet">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-</div>
-
-<br clear="both">
+<p align="center">
+  <h3 align="center">SUPPORT ME:</h3>
+  <p align="center">
+    <a href="https://www.buymeacoffee.com/zZyreXxSer">
+      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zZyreXx">
+    </a>
+  </p>
+</p>
 
 
 ### check repo for codes!
