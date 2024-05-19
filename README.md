@@ -23,6 +23,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"  />
   </a>
+   <img width="12" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" height="30" alt="JavaScript"  />
+  </a>
 </div>
 
 <p align="center">
