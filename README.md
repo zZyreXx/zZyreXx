@@ -31,6 +31,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="30" alt="JavaScript"  />
   </a>
+<img width="12" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/Node">
+    <img src="https://miro.medium.com/v2/resize:fit:800/1*bc9pmTiyKR0WNPka2w3e0Q.png" height="30" alt="JavaScript"  />
+  </a>
 </div>
 
 <p align="center">
