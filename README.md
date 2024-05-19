@@ -1,51 +1,44 @@
+<h2 align="center">Hi there! 👋 I'm Axocoder, a Discord Bot Developer</h2>
+
 <div align="center">
-  <img src="https://i.imgur.com/mCZXY81.jpeg" width="500px" alt="Awesome Image">
-  <h1>ZHYREX SER</h1>
+  <img src="https://github-readme-stats.vercel.app/api?username=zZyreXx0&theme=blueberry&show_icons=true&hide_border=false&count_private=false" height="150" alt="GitHub Stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zZyreXx0&theme=blueberry&show_icons=true&hide_border=false&layout=compact" height="150" alt="Top Languages"  />
 </div>
 
-<p align="center">
-  <a href="https://github.com/zZyreXx"><img title="Release" src="https://img.shields.io/badge/About-You%20only%20live%20once,%20but%20if%20you%20do%20it%20right,%20once%20is%20enough-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
-</p>
+<img align="right" height="150" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="Animated Coding" />
 
-<p align="center">
-  <h3 align="center">SUPPORT ME:</h3>
-  <p align="center">
-    <a href="https://www.buymeacoffee.com/zZyreXxSer">
-      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zZyreXx">
-    </a>
-  </p>
-</p>
-
+<h3>About Me</h3>
 <div align="center">
-  <a href="https://alien-alfa.github.io"><span class="avatar"> </a></span>
+  🤖 I love creating Discord bots!<br>
+  🌱 Currently learning Large language.<br>
+  🎥 I'm also a content creator.
 </div>
 
-<p align="center">
-  <h3>Stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=zZyreXx&show_icons=true&theme=radical" alt="zZyreXx's GitHub Stats">
-</p>
-
-<p align="center">
-  <h3>Top Languages:</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zZyreXx&layout=compact&theme=radical" alt="zZyreXx's Top Languages">
-</p>
-
-<p align="center">
-  <h3>Weekly Coding Stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zZyreXx&layout=compact&theme=radical" alt="zZyreXx's Weekly Coding Stats">
-</p>
-
-<div align="center">
-  <h3>Connect with Me:</h3>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Click%20to%20Email-success?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+### Skills
+<div align="left">
+  <a href="https://www.python.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"  />
   </a>
-  <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-Follow%20Me-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img width="12" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"  />
   </a>
 </div>
 
-<!-- This section can be customized further as per your preferences. -->
+### Connect with Me
+<div align="left">
+  <a href="https://youtube.com/@AxoCoder?si=WYggB1myrZNTRoAT">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="YouTube" />
+  </a>
+  <a href="https://www.instagram.com/memezonebgmi/">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <a href="https://discord.gg/codersplanet">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
+  </a>
+</div>
+
+<br clear="both">
+
+
+### Bot Code Credit Goes To Corwin#0001
