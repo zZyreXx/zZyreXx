@@ -27,6 +27,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" height="30" alt="JavaScript"  />
   </a>
+<img width="12" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height="30" alt="JavaScript"  />
+  </a>
 </div>
 
 <p align="center">
