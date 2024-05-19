@@ -41,4 +41,4 @@
 <br clear="both">
 
 
-### Bot Code Credit Goes To Corwin#0001
+### check repo for codes!
