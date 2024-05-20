@@ -11,7 +11,7 @@
 <div align="center">
   🤖 I love creating Discord bots!<br>
   🌱 Currently learning Large language.<br>
-  🎥 I'm also a content creator.
+  🎮 I'm also a Gamer.
 </div>
 
 ### Skills
