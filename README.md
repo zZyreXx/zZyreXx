@@ -1,97 +1,173 @@
 <!--
   ╔══════════════════════════════════════════════════╗
-  ║   TAIFYU · zZyreXx · Fullstack Dev              ║
+  ║   TAIFYU · zZyreXx · Blood Moon Dev             ║
   ╚══════════════════════════════════════════════════╝
 -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d0000,50:8b0000,100:cc0000&height=200&section=header&text=TAIFYU&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Fullstack%20Developer%20·%20Bot%20Architect%20·%20Gamer&descAlignY=62&descSize=17&descColor=ff4444" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:3fb950&height=120&section=header&text=TAIFYU&fontSize=50&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+TAIFYU+👋;Fullstack+Developer;Discord+Bot+Architect;LLM+Explorer+🧠;Developer+·+Eat+·+Code+·+Game+·+Sleep)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=CC0000&center=true&vCenter=true&random=false&width=650&height=60&lines=Hello+World!+I'm+TAIFYU+👁️;Fullstack+Developer+in+the+Dark+💻;Discord+Bot+Architect+🤖;Blood+Moon+Coder+🌑;Developer+·+Eat+·+Code+·+Game+·+Sleep)](https://git.io/typing-svg)
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/zZyreXx?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=30363d)](https://github.com/zZyreXx)
-[![Profile Views](https://komarev.com/ghpvc/?username=zZyreXx&style=for-the-badge&color=58a6ff&labelColor=0d1117&label=PROFILE+VIEWS)](https://github.com/zZyreXx)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/zZyreXxSer)
+<a href="https://github.com/zZyreXx">
+  <img src="https://img.shields.io/github/followers/zZyreXx?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=8b0000&labelColor=1a0000"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=zZyreXx&style=for-the-badge&color=cc0000&labelColor=1a0000&label=PROFILE+VIEWS"/>
+<a href="https://www.buymeacoffee.com/zZyreXxSer">
+  <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-cc0000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zZyreXx&bg_color=0d0000&color=cc0000&line=8b0000&point=ff4444&area=true&area_color=8b0000&hide_border=true&custom_title=🌑%20TAIFYU's%20Blood%20Moon%20Contributions)](https://github.com/zZyreXx)
 
 </div>
 
 ---
 
-### 👾 About Me
+<img align="right" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding gif"/>
 
-```json
-{
-  "name"      : "TAIFYU",
-  "role"      : "Fullstack Developer",
-  "location"  : "Kerala, India 🇮🇳",
-  "loves"     : ["Discord Bots", "Web Dev", "Gaming"],
-  "learning"  : "Large Language Models 🧠",
-  "github"    : "@zZyreXx",
-  "bio"       : "Developer · Eat · Code · Game · Sleep"
-}
+### 🌑 Who Am I
+
+```python
+class TAIFYU:
+    name     = "TAIFYU"
+    alias    = "zZyreXx"
+    role     = "Fullstack Developer"
+    location = "Kerala, India 🇮🇳"
+    theme    = "🌑 Blood Moon"
+    
+    weapons  = ["Python", "JavaScript", "Node.js",
+                 "HTML", "CSS", "Discord.js",
+                 "React", "TypeScript", "MongoDB"]
+    
+    obsessed_with = [
+        "Building Discord Bots 🤖",
+        "Exploring LLMs 🧠",
+        "Gaming at 3AM 🎮",
+        "Dark themes only 🌑"
+    ]
+    
+    learning = "Large Language Models & AI"
+    active   = "00:00 - 04:00 (night owl 🦉)"
+    motto    = "Developer · Eat · Code · Game · Sleep"
+
+me = TAIFYU()
+# I only code under a blood moon 🌑
 ```
 
-- 🤖 I love building powerful **Discord bots**
-- 🌱 Currently learning **Large Language Models** & AI integration  
-- 🎮 Gamer at heart — when I'm not coding, I'm gaming  
-- 📦 Check my repos for source code!
-- 🕐 Active at odd hours (UTC+05:30)
+<br clear="right"/>
 
 ---
 
-### 🛠️ Tech Stack
-
-<div align="left">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub Stats
+### ⚔️ Tech Arsenal
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zZyreXx&theme=github_dark&show_icons=true&hide_border=true&count_private=false" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zZyreXx&theme=github_dark&show_icons=true&hide_border=true&layout=compact" height="165" />
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=zZyreXx&theme=github-dark-blue&hide_border=true&fire=58a6ff&ring=3fb950&currStreakLabel=ffffff" width="70%" />
+**⬛ Languages**
+
+![Python](https://img.shields.io/badge/Python-8b0000?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a0000?style=for-the-badge&logo=javascript&logoColor=cc0000)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a0000?style=for-the-badge&logo=typescript&logoColor=cc0000)
+![HTML5](https://img.shields.io/badge/HTML5-8b0000?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1a0000?style=for-the-badge&logo=css3&logoColor=cc0000)
+
+**⬛ Frameworks & Runtime**
+
+![Node.js](https://img.shields.io/badge/Node.js-1a0000?style=for-the-badge&logo=nodedotjs&logoColor=cc0000)
+![React](https://img.shields.io/badge/React-8b0000?style=for-the-badge&logo=react&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1a0000?style=for-the-badge&logo=express&logoColor=cc0000)
+![Discord.js](https://img.shields.io/badge/Discord.js-8b0000?style=for-the-badge&logo=discord&logoColor=white)
+
+**⬛ Databases & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-1a0000?style=for-the-badge&logo=mongodb&logoColor=cc0000)
+![Git](https://img.shields.io/badge/Git-8b0000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-1a0000?style=for-the-badge&logo=github&logoColor=cc0000)
+![VS Code](https://img.shields.io/badge/VS%20Code-8b0000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1a0000?style=for-the-badge&logo=linux&logoColor=cc0000)
+
+**⬛ Currently Learning**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-8b0000?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1a0000?style=for-the-badge&logo=langchain&logoColor=cc0000)
+![FastAPI](https://img.shields.io/badge/FastAPI-8b0000?style=for-the-badge&logo=fastapi&logoColor=white)
+
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+### 🩸 GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zZyreXx&theme=blood_dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&icon_color=cc0000&title_color=cc0000&text_color=ff6666&bg_color=0d0000" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zZyreXx&show_icons=true&hide_border=true&layout=compact&langs_count=8&title_color=cc0000&text_color=ff6666&bg_color=0d0000" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zZyreXx&theme=blood&hide_border=true&fire=cc0000&ring=8b0000&currStreakLabel=ffffff&background=0d0000&stroke=8b0000&sideLabels=ff4444&dates=ff4444" width="65%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zZyreXx&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%"/>
+</div>
+
+---
+
+### 🌑 Watch My Contributions Get Devoured
+
+<div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zZyreXx/zZyreXx/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zZyreXx/zZyreXx/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zZyreXx/zZyreXx/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zZyreXx/zZyreXx/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zZyreXx/zZyreXx/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zZyreXx/zZyreXx/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
+</div>
 
 ---
 
-### ☕ Support Me
+### 🎮 Current Status
 
 <div align="center">
 
-If you like my work, a coffee goes a long way!
+| | |
+|:---|:---|
+| 🔭 Building | Discord bots & fullstack web apps |
+| 🌱 Learning | Large Language Models & AI |
+| 🤝 Open To | Collabs & dark-mode projects |
+| 💬 Ask Me About | Python, Discord bots, Web Dev |
+| 🌑 Fun Fact | I only code under a blood moon |
+| 🎮 Gaming | Always. No exceptions. |
+| 🦉 Active Hours | Midnight to 4AM |
+
+</div>
+
+---
+
+### 🌐 Find Me In The Dark
+
+<div align="center">
+
+[![Instagram](https://img.shields.io/badge/Instagram-8b0000?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ig.zhyrex)
+[![Twitter/X](https://img.shields.io/badge/X%20(Twitter)-1a0000?style=for-the-badge&logo=x&logoColor=cc0000)](https://twitter.com/twzhyrex)
+[![GitHub](https://img.shields.io/badge/GitHub-8b0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zZyreXx)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-1a0000?style=for-the-badge&logo=buymeacoffee&logoColor=cc0000)](https://www.buymeacoffee.com/zZyreXxSer)
+
+</div>
+
+---
+
+### 🩸 Support The Night Coder
+
+<div align="center">
+
+*Fuel the blood moon sessions — one coffee at a time* ☕🌑
 
 <a href="https://www.buymeacoffee.com/zZyreXxSer">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" height="60" width="217" alt="Buy Me A Coffee"/>
 </a>
 
 </div>
@@ -100,8 +176,12 @@ If you like my work, a coffee goes a long way!
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3fb950,50:58a6ff,100:0d1117&height=80&section=footer" width="100%"/>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-<sub>Made with ❤️ by TAIFYU · check repos for code!</sub>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:cc0000,50:8b0000,100:0d0000&height=120&section=footer&animation=twinkling" width="100%"/>
+
+*🌑 From the shadows — [zZyreXx](https://github.com/zZyreXx) · check the repos for code*
 
 </div>
