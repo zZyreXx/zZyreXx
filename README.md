@@ -22,13 +22,13 @@
 
 <br/><br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zZyreXx&bg_color=0d0000&color=cc0000&line=8b0000&point=ff4444&area=true&area_color=8b0000&hide_border=true&custom_title=🌑%20TAIFYU's%20Blood%20Moon%20Contributions)](https://github.com/zZyreXx)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zZyreXx&bg_color=0d0000&color=cc0000&line=8b0000&point=ff4444&area=true&area_color=8b0000&hide_border=true&custom_title=🌑%20TAIFYU%27s%20Blood%20Moon%20Contributions)](https://github.com/zZyreXx)
 
 </div>
 
 ---
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding gif"/>
+<img align="right" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="coding gif"/>
 
 ### 🌑 Who Am I
 
@@ -39,18 +39,18 @@ class TAIFYU:
     role     = "Fullstack Developer"
     location = "Kerala, India 🇮🇳"
     theme    = "🌑 Blood Moon"
-    
+
     weapons  = ["Python", "JavaScript", "Node.js",
                  "HTML", "CSS", "Discord.js",
                  "React", "TypeScript", "MongoDB"]
-    
+
     obsessed_with = [
         "Building Discord Bots 🤖",
         "Exploring LLMs 🧠",
         "Gaming at 3AM 🎮",
         "Dark themes only 🌑"
     ]
-    
+
     learning = "Large Language Models & AI"
     active   = "00:00 - 04:00 (night owl 🦉)"
     motto    = "Developer · Eat · Code · Game · Sleep"
@@ -103,12 +103,12 @@ me = TAIFYU()
 ### 🩸 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zZyreXx&theme=blood_dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&icon_color=cc0000&title_color=cc0000&text_color=ff6666&bg_color=0d0000" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zZyreXx&show_icons=true&hide_border=true&layout=compact&langs_count=8&title_color=cc0000&text_color=ff6666&bg_color=0d0000" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zZyreXx&theme=dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true&icon_color=cc0000&title_color=cc0000&text_color=ff6666&bg_color=0d0000" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zZyreXx&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&title_color=cc0000&text_color=ff6666&bg_color=0d0000" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zZyreXx&theme=blood&hide_border=true&fire=cc0000&ring=8b0000&currStreakLabel=ffffff&background=0d0000&stroke=8b0000&sideLabels=ff4444&dates=ff4444" width="65%"/>
+  <img src="https://streak-stats.demolab.com?user=zZyreXx&theme=dark&hide_border=true&fire=cc0000&ring=8b0000&currStreakLabel=cc0000&background=0d0000&stroke=8b0000&sideLabels=ff4444&dates=ff6666" width="65%"/>
 </div>
 
 <div align="center">
